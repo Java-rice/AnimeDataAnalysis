@@ -14,7 +14,7 @@ Dataset Link: https://www.kaggle.com/datasets/hernan4444/anime-recommendation-da
 - Run the Python Code
 
 #### MEMBERS:
-- John Patrick Lagatuz
-- John Mark Peroche
-- Jaymart Reario
-- Kurt Denver Torreda
+- <b>[John Patrick Lagatuz](https://github.com/jaypeepeep)</b>
+- <b>[John Mark Peroche](https://github.com/Java-rice)</b>
+- <b>[Jaymart Reario]</b>
+- <b>[Kurt Denver Torreda](https://github.com/kurtdenvertorreda)</b>
