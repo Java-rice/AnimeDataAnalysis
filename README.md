@@ -16,5 +16,5 @@ Dataset Link: https://www.kaggle.com/datasets/hernan4444/anime-recommendation-da
 #### MEMBERS:
 - <b>[John Patrick Lagatuz](https://github.com/jaypeepeep)</b>
 - <b>[John Mark Peroche](https://github.com/Java-rice)</b>
-- <b>[Jaymart Reario]</b>
+- <b>[Jaymart Reario](https://github.com/bubblipathic)</b>
 - <b>[Kurt Denver Torreda](https://github.com/kurtdenvertorreda)</b>
